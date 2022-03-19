@@ -3,7 +3,7 @@
 ## I'm full stack web developer!
 - 💼 Currently I'm working in [Purrweb Company][purrweb] as Team Lead
 - 💡 [Skills](SKILLS.md)
-- 💻 Languages: TypeScript
+- 💻 Language: TypeScript
 - 📦 Tech stack: node.js / ts / nest.js / express / React / ReactNative / postgresql / graphql / scylla / aws </code>
 - ✨ Fun fact: I love to sing and make beats 
 
