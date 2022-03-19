@@ -1,7 +1,7 @@
 ### Hi there, I'm Vladislav - aka vlxdisluv
 
 ## I'm full stack web developer!
-- 💼 I'm currently working in [Purrweb Company][https://www.purrweb.com/] as Team Lead
+- 💼 I'm currently working in [Purrweb Company][purrweb] as Team Lead
 - 💡 [Skills](SKILLS.md)
 - 💻 Languages: TypeScript
 - 📦 Tech stack: node.js / ts / nest.js / express / React / ReactNative / postgresql / graphql / scylla / aws </code>
@@ -17,3 +17,4 @@
 [telegram]: https://telegram.me/vlxdisluv
 [instagram]: https://www.instagram.com/vlxdisluv
 [gmail]: mailto:vlxdisluv@gmail.com
+[purrweb]: https://www.purrweb.com
