@@ -1,9 +1,9 @@
 ### Hi there, I'm Vladislav
 
 ## I'm full stack web developer!
-- 💼 Currently I'm working in [Purrweb Company][purrweb] as Team Lead
 - 💡 [Skills](SKILLS.md)
 - 💻 Language: TypeScript
+- 💼 Currently I'm working in [Purrweb Company][purrweb] as Team Lead
 - 📦 Tech stack: node.js / ts / nest.js / express / React / ReactNative / postgresql / graphql / scylla / aws </code>
 - ✨ Fun fact: I love to sing and make beats 
 
