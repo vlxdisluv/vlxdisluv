@@ -1,4 +1,4 @@
-### Hi there, I'm Vladislav - aka vlxdisluv
+### Hi there, I'm Vladislav
 
 ## I'm full stack web developer!
 - 💼 I'm currently working in [Purrweb Company][purrweb] as Team Lead
