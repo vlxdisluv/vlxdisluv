@@ -1,10 +1,19 @@
-<code>👷 Speciality: Software engineer / Backend / Frontend</code><br>
-<code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: TypeScript </code>
-<code>📦 Tech stack: node.js / ts / nest.js / express / React / ReactNative / postgresql / graphql </code>
-<code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@vlxdisluv](https://telegram.me/vlxdisluv)</code>
-<code>📫 [your-email](mailto:vlxdisluv@gmail.com)</code>
+### Hi there, I'm Vladislav - aka vlxdisluv
+
+## I'm full stack web developer!
+- 💼 I'm currently working in [Purrweb Company][https://www.purrweb.com/] as Team Lead
+- 💡 [Skills](SKILLS.md)
+- 💻 Languages: TypeScript
+- 📦 Tech stack: node.js / ts / nest.js / express / React / ReactNative / postgresql / graphql / scylla / aws </code>
+- ✨ Fun fact: I love to sing and make the beats 
+
+### Connect with me:
+
+[<img align="left" alt="vlxdisluv | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="vlxdisluv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vlxdisluv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+
+[telegram]: https://telegram.me/vlxdisluv
+[instagram]: https://www.instagram.com/vlxdisluv
+[gmail]: mailto:vlxdisluv@gmail.com
