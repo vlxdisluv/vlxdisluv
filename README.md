@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="vlxdisluv | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="filter: invert(50%) sepia(84%) saturate(3370%) hue-rotate(163deg) brightness(97%) contrast(101%);" />][telegram]
+[<img align="left" alt="vlxdisluv | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="vlxdisluv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="vlxdisluv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
