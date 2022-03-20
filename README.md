@@ -4,7 +4,7 @@
 - 💡 [Skills](SKILLS.md)
 - 💻 Language: TypeScript
 - 💼 Currently I'm working in [Purrweb Company][purrweb] as Team Lead
-- 📦 Tech stack: node.js / ts / nest.js / express / React / ReactNative / postgresql / graphql / scylla / aws </code>
+- 📦 Tech stack: node.js / ts / nest.js / express / React / ReactNative / postgresql / graphql / scylla </code>
 - ✨ Fun fact: I love to sing and make beats 
 
 ### Connect with me:
