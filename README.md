@@ -10,11 +10,9 @@
 ### Connect with me:
 
 [<img align="left" alt="vlxdisluv | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="vlxdisluv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="vlxdisluv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="vlxdisluv | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
 [telegram]: https://telegram.me/vlxdisluv
-[instagram]: https://www.instagram.com/vlxdisluv
 [gmail]: mailto:vlxdisluv@gmail.com
 [purrweb]: https://www.purrweb.com
