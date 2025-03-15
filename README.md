@@ -4,7 +4,7 @@
 - 🎓 Graduation: Bachelor of Science - 09.03.02 Information systems and technologies
 - 💻 Languages: TypeScript, Go, Python
 - 💼 Current Job: Senior Software Engineer at One Punch Agency
-- 📦 Tech stack: NestJS, Docker, AWS, RabbitMQ, Postgresql, Mongo, Redis
+- 📦 Tech stack: NestJS, Docker, CI/CD, AWS, RabbitMQ, Postgresql, Mongo, Redis
 - 📄 Certificate: [Hard&Soft Skills Certificate](https://certificate.hardsoftskills.dev/tl6-vlse)
 - 🇬🇧 English: B2
   
